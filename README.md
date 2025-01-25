@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Kasturi</h1>
-<h3 align="center">A Passionate Data Enthusiast, keen about using technology and AI to build solutions and drive innovation</h3>
+<h3 align="center">A Passionate Data Enthusiast, keen about using technology and AI to build cool😎 solutions </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5sagar&label=Profile%20views&color=0e75b6&style=flat" alt="5sagar" /> </p>
 
