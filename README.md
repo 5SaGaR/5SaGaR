@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5sagar" alt="5sagar" /></a> </p>
 
-- 🌱 I’m currently learning **Algorithms, Computer Vision, Multi-Modal Agents, AWS**
+- 🌱 I’m currently learning **Algorithms and working on projects using Computer Vision, Multi-Modal Agents, AWS**
 
 - 💬 Ask me about **Data Science**
 
