@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ggsagar8@gmail.com**
 
-- ⚡ Fun fact **Can't say no 🤔**
+- ⚡ Fun fact ** Born Ready 🤔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
